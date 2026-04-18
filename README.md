@@ -126,4 +126,12 @@ lanchonete/
         ├── view/
         └── Main.java
 ````
+
+## 📄 Licença
+Este projeto é para fins acadêmicos e de aprendizado.
+
+---
+
 <p align="center"> <strong>Alisson Junior</strong><br> 💻 Desenvolvedor em evolução </p>
+
+---
