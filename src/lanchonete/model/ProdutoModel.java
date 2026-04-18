@@ -1,15 +1,15 @@
-package lanchonete;
+package lanchonete.model;
 
-public class Produto {
+public class ProdutoModel {
 
     private static int contadorId = 1;
 
-    private int id;
+    private int    id;
     private String nome;
     private String descricao;
     private double preco;
 
-    public Produto(String nome, String descricao, double preco) {
+    public ProdutoModel(String nome, String descricao, double preco) {
         if (nome == null || nome.trim().isEmpty()) {
             throw new IllegalArgumentException("RN01 - O nome do produto não pode ser vazio.");
         }
